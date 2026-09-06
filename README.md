@@ -8,6 +8,12 @@
 
 <img src="https://i.pinimg.com/originals/e0/93/3c/e0933cfe30da2c82232d339dc0e64eb6.gif" alt="Banner" width="100%" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="dipjyotisarma-dev's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 ## 📌 About Me
 - 🎓 B.Tech CSE student focused on building a career in AI/ML Engineering
 - 🐍 Building practical projects with Python, Data Science and Machine Learning
