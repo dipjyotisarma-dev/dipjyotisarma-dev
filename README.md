@@ -1,3 +1,5 @@
+<img width="986" height="416" alt="light_mode (1)" src="https://github.com/user-attachments/assets/9ead2956-993f-416f-b250-8abb332daa7e" />
+<img width="986" height="416" alt="dark_mode" src="https://github.com/user-attachments/assets/6e22cb60-a9e0-4d93-8310-bee4baa115e4" />
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Dipjyoti%20Sarma&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20in%20Training&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
