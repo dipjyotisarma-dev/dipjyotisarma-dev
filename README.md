@@ -6,35 +6,33 @@
   </a>
 </p>
 
-```md
 ## 📌 About Me
 
 ```text
-- dipjyotisarma-dev@github --------------------------------
+- dipjyotisarma-dev@github -------------------------------------------------------------------------
+  Role: ............................ AI/ML Engineer in Training
+  Education: ....................... B.Tech CSE
+  Location: ........................ India
+  Focus: ............................ AI / Machine Learning
 
-- Role: ................................ AI/ML Engineer in Training
-- Education: ........................... B.Tech CSE
-- Focus: ............................... AI / Machine Learning
-- Interests: ........................... Data Science & Predictive Modeling
+- Interests ----------------------------------------------------------------------------------------
+  Data Science & Predictive Modeling        Machine Learning Applications
+  Artificial Intelligence                   Python Development
 
-- Learning -----------------------------------------------
-- EDA: ................................ Exploratory Data Analysis
-- Feature Engineering: ................ Feature Engineering
-- Machine Learning: .................... Model Development & Evaluation
+- Currently Learning -------------------------------------------------------------------------------
+  EDA ............................... Exploratory Data Analysis
+  Feature Engineering ............... Feature Transformation & Selection
+  Machine Learning ................... Model Development & Evaluation
 
-- Building -----------------------------------------------
-- Language: ............................ Python
-- Backend: ............................. FastAPI
-- Projects: ............................ Practical AI/ML Applications
+- Building ----------------------------------------------------------------------------------------
+  Language: .......................... Python
+  Backend: ........................... FastAPI
+  Projects: .......................... Practical AI/ML Applications
 
-- Philosophy ---------------------------------------------
-- Approach: ............................ Learn -> Build -> Evaluate -> Improve
-
-- Goal ---------------------------------------------------
-- Target: .............................. Production-oriented AI/ML Engineering
+- Goal --------------------------------------------------------------------------------------------
+  Production-oriented AI/ML Engineering
+  Building practical and reliable AI/ML applications
 ```
-
-
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
