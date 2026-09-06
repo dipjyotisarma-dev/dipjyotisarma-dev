@@ -40,9 +40,12 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dipjyotisarma-dev&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="dipjyotisarma-dev's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=dipjyotisarma-dev&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="dipjyotisarma-dev's GitHub Streak" width="49%" />
-</p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=dipjyotisarma-dev&theme=tokyonight&radius=10" alt="dipjyotisarma-dev's Activity Graph" />
+  <img
+    src="https://ghchart.rshah.org/dipjyotisarma-dev"
+    alt="GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
 
 
