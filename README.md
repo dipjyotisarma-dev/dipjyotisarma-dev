@@ -9,7 +9,7 @@
 ## 📌 About Me
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/427df61f-f240-47ac-a426-79095739acc1" alt="About Me terminal" />
+  <img src="https://github.com/user-attachments/assets/fac6e6fb-b8e2-4866-a1b1-1b6a91154f07" alt="About Me terminal" />
 </p>
 
 ## 🛠️ Tech Stack
