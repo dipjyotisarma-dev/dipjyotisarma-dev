@@ -8,31 +8,9 @@
 
 ## 📌 About Me
 
-```text
-- dipjyotisarma-dev@github -------------------------------------------------------------------------
-  Role: ............................ AI/ML Engineer in Training
-  Education: ....................... B.Tech CSE
-  Location: ........................ India
-  Focus: ............................ AI / Machine Learning
-
-- Interests ----------------------------------------------------------------------------------------
-  Data Science & Predictive Modeling        Machine Learning Applications
-  Artificial Intelligence                   Python Development
-
-- Currently Learning -------------------------------------------------------------------------------
-  EDA ............................... Exploratory Data Analysis
-  Feature Engineering ............... Feature Transformation & Selection
-  Machine Learning ................... Model Development & Evaluation
-
-- Building ----------------------------------------------------------------------------------------
-  Language: .......................... Python
-  Backend: ........................... FastAPI
-  Projects: .......................... Practical AI/ML Applications
-
-- Goal --------------------------------------------------------------------------------------------
-  Production-oriented AI/ML Engineering
-  Building practical and reliable AI/ML applications
-```
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/427df61f-f240-47ac-a426-79095739acc1" alt="About Me terminal" />
+</p>
 
 ## 🛠️ Tech Stack
 
